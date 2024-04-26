@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diogo falardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo falardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diogo-falardo-74b7ab2a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo falardo" height="30" width="40" /></a>
 <a href="https://instagram.com/diogofalardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogofalardo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uczlqunddaeq5totlcyglbzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczlqunddaeq5totlcyglbzq" height="30" width="40" /></a>
 </p>
