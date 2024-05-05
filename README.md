@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Diogo-Falardo.Diogo-Falardo" />
 
-# 🏄‍♂️ Bloop (Diogo Falardo)
+# 🏄‍♂️ Diogo Falardo (Bloop)
 
 **`(Developer/Crypto/Content-Creator)`**
 
