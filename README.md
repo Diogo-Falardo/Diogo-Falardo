@@ -25,5 +25,5 @@ Im learning and developing skills in web development since 2020 including HTML, 
 </div>
 <br/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+COde&weight=900&size=25&pause=1000&color=156EF7&background=27040000&center=true&vCenter=true&random=true&width=435&lines=Projects+Comming+Soon!" alt="Typing SVG" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diogo-Falardo&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 </div>
