@@ -9,5 +9,5 @@ Im learning and developing skills in web development since 2020 including HTML, 
 <h2 align="center">🧑🏻‍💻 Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,c++,c#" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,cs,cpp" />
 </div>
