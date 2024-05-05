@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ Bloop (Diogo Falardo)
 
-**`(Developer/Crypto/Creator)`**
+**`(Developer/Crypto/Content-Creator)`**
 
 Im learning and developing skills in web development since 2020 including HTML, CSS, JavaScript and PHP. I'm also learning about responsive design and performance optimization. I'm constantly seeking new challenges and opportunities to improve my skills and expand my knowledge in the field. I'm passionate about creating visually appealing interfaces. I'm committed to staying up-to-date with the latest trends and best practices in web development.
 
@@ -18,9 +18,14 @@ Im learning and developing skills in web development since 2020 including HTML, 
   </a>
 </div>
 
-
 <h2 align="center">🧑🏻‍💻 Languages and Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,cs,cpp" />
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+COde&weight=900&size=25&pause=1000&color=156EF7&background=27040000&center=true&vCenter=true&random=true&width=435&lines=Projects+Comming+Soon!" alt="Typing SVG" /></a>
+
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Diogo-Falardo&theme=dark)](https://git.io/streak-stats)
 </div>
