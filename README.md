@@ -13,6 +13,9 @@ Im learning and developing skills in web development since 2020 including HTML, 
   <a href="https://www.linkedin.com/in/diogo-falardo-74b7ab2a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://www.youtube.com/channel/UCzLQuNddAeQ5toTlcYGlbZQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 
