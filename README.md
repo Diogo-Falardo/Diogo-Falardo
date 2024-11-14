@@ -25,5 +25,5 @@ Im learning and developing skills in web development since 2023 including HTML, 
 </div>
 <br/>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diogo-Falardo&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diogo-Falardo&theme=youtube-dark&border_radius=10" alt="GitHub Streak" /></a>
 </div>
