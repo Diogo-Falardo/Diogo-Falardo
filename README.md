@@ -21,7 +21,7 @@ Im learning and developing skills in web development since 2023 including HTML, 
 <h2 align="center">🧑🏻‍💻 Languages and Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,,html,css,javascript,python,cs" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,cs" />
 </div>
 <br/>
 <div align="center">
