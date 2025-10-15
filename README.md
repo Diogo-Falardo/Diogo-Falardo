@@ -2,7 +2,7 @@
 
 # Diogo Falardo
 
-**Full-Stack Developer (React / TypeScript / FastAPI)**  
+**Junior Full-Stack Developer (React / TypeScript / FastAPI)**  
 
 I'm a developer who enjoys working on scalable code and clean architectures.  
 I pay close attention to every detail in my work and always aim to follow the best practices and find the best way to solve problems.  
