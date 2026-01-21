@@ -1,39 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Diogo-Falardo.Diogo-Falardo" />
 
-# 👋 Hey, I'm Diogo Falardo
+### Hey, <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-**Junior Backend Developer — currently focused on Python (FastAPI), with previous experience in C#**  
+I'm [**Diogo Falardo**](https://diogo-falardo.com), a Junior Developer focused on building clean and scalable web applications.
 
-I enjoy designing and building solutions that are reliable and make sense — mainly focused on the backend side.  
-I care about writing **clean**, **organized**, and **maintainable code**, and I’m always looking for ways to **improve and learn**.  
-Most of my work involves **Python (FastAPI)** for APIs and **MySQL** for database management,  
-but I also have experience using **React** and **Svelte** with **TypeScript** and **Tailwind CSS** to create simple and functional interfaces.
+I mainly work with **Python (FastAPI)** + **MySQL**, designing structured APIs and backend systems that are reliable and easy to maintain.  
+I also enjoy working on the frontend with **Next.js / React**, **TypeScript**, and **Tailwind CSS** to create modern and functional interfaces.
 
+What I enjoy most about programming is the full process — **thinking about an idea**, **planning the solution**, and then **building it into something real**.  
+I’m motivated by watching a project grow over time, step by step, until it turns into a complete product that actually works and makes sense.
 
----
-
-## Tech Stack & Tools
-
-### **Backend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cs,mysql,docker" />
-</div>
-
-### **Frontend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,svelte,typescript,tailwind" />
-</div>
-
-### **Development & Tools**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</div>
-
----
-
-### Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/diogo-falardo-74b7ab2a8/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+I like writing **clean**, **organized**, and **maintainable code**, and I’m always looking for ways to improve and learn while building new projects.
